@@ -6,5 +6,9 @@
 
 <a href="test/hello">Test endpoint</a>
 
+<br>
+
+<a href="api/students">Students</a>
+
 </body>
 </html>
